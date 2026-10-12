@@ -5,8 +5,35 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    QuickInstaller_com.unity.purchasing_installRecorded:
+      value: 2550581500
+      flags: 0
+    QuickInstaller_com.unity.services.levelplay_installRecorded:
+      value: 2550581500
+      flags: 0
     RecentlyUsedSceneGuid-0:
       value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5a08075303530f0c0c5b587148705b44174f1b2b757d72337c7d4c62e1b8676b
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5204015704560b5e5d585d7748200844134f19287e2e73682b701f60b5b3303b
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5300520350505e035d5b5f2342730d44104e4e2b7c7c73672b2d4d37e7b3613e
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 57020d0750530b0f5b570e76477509444f4e4d287a7170672b7d1f37bbb6613e
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5b055754510c5e02545c5f2442710644434e1b7b7f7c24607c2c4836bab5616c
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 57030d0303010b0d5e0d5c231125074413161c7e7f7877602c794e36e1b93068
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5305045004530c020956542349225c4442151a7e7f2c256379784f32e6b7613b
       flags: 0
     UnityEditor.ShaderGraph.Blackboard:
       value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd2e2d293c4ead313b08042de6030a0afa240c0d020be94c4ba75e435d8715fa32c70d15d11612dacc11fee5d3c5d1fe9ab1bf968e93e2ffcbc3e7e2f0b3ffe0e8b0be9af8ffaeffff8e85dd8390e3949c8899daa7

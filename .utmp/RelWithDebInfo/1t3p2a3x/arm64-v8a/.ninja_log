@@ -1,0 +1,10 @@
+# ninja log v5
+55	1974	8039225086090061	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4bec76bb21003675
+36	1983	8039225086069612	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e6be3de2801097a
+18	1985	8039225086150472	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	eeaac1cd2d994cb3
+87	1995	8039225086302531	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ff2875020087cf8b
+1	2000	8039225086374106	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3456047b6680c75a
+68	2187	8039225088255427	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9506cd6ed9eea4ea
+45	2247	8039225088822253	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	63a187e0b0a65bed
+26	2332	8039225089688970	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	45052c43a11b3dc
+2332	2456	8039225090967011	C:/Users/sawee/PenaltyShootout/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1t3p2a3x/obj/arm64-v8a/libgame.so	81ee742a592d4827
